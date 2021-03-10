@@ -1,0 +1,7 @@
+sqlalchemy
+gino
+asyncpg
+aiogram==2.11.2
+
+python-dotenv
+
